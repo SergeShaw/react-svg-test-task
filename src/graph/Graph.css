@@ -1,0 +1,15 @@
+.chart {
+  background: #f6f7f8;
+}
+
+body {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+}
